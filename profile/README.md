@@ -35,8 +35,8 @@ Because this project spans custom hardware, embedded firmware, and an AR softwar
 * **Description:** Includes the `.stl` files and original CAD project files used for additive manufacturing (3D printing) the custom wearable sensor housings.
 
 ### 4. Dissertation & A0 Poster
-**Repository:** [GaitSyncAR Root (.github)](https://github.com/GaitSyncAR/.github)
-**Description:** Contains the final written dissertation report and the A0 academic presentation poster associated with the project.
+* **Repository:** [GaitSyncAR Root (.github)](https://github.com/GaitSyncAR/.github)
+* **Description:** Contains the final written dissertation report and the A0 academic presentation poster associated with the project.
 ---
 
 ## Compilation, Deployment, and Running
