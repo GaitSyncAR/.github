@@ -32,7 +32,7 @@ Because this project spans custom hardware, embedded firmware, and an AR softwar
 * **Description:** Contains the Zephyr RTOS source code for the primary and secondary nRF52840 sensor nodes. It handles the raw IMU data capture, real-time clock synchronisation, and BLE transmission.
 
 ### 3. Hardware & 3D Design Files (CAD)
-* **Link:** [Download STL & CAD Files (Google Drive)](https://drive.google.com/file/d/12ckUizZyPBIqEu3kfGE-ti41WXDw3-view?usp=sharing)
+* **Link:** [Download STL & CAD Files (Google Drive)](https://drive.google.com/file/d/12ckUizZyPBIqEu3kfGE-ti41WXDw3-xU/view?usp=sharing)
 * **Description:** Includes the `.stl` files and original CAD project files used for additive manufacturing (3D printing) the custom wearable sensor housings.
 
 ### 4. Dissertation & A0 Poster
