@@ -50,3 +50,6 @@ Because this project spans custom hardware, embedded firmware, and an AR softwar
 2. Open the project in **Unity** (ensure the AR Foundation and relevant target build modules are installed).
 3. Build the project for your target AR device.
 4. Launch the application. Ensure the ankle sensors are powered on; the Unity application will automatically establish a BLE handshake to begin streaming gait data.
+
+## Project Poster
+[G00417529_FYP_Poster.pdf](https://github.com/user-attachments/files/27099160/G00417529_FYP_Poster.pdf)
