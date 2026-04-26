@@ -52,4 +52,4 @@ Because this project spans custom hardware, embedded firmware, and an AR softwar
 4. Launch the application. Ensure the ankle sensors are powered on; the Unity application will automatically establish a BLE handshake to begin streaming gait data.
 
 ## Project Poster
-[G00417529_FYP_Poster.pdf](https://github.com/user-attachments/files/27099160/G00417529_FYP_Poster.pdf)
+<img width="1175" height="1660" alt="{FAD919BA-2C04-42B4-A543-2E0C09E46705}" src="https://github.com/user-attachments/assets/c81ba19c-7265-4ced-b1ad-75c3a68084f0" />
