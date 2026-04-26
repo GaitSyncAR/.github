@@ -5,7 +5,7 @@
 
 ## About the Project
 
-**GaitSyncAR** is an immersive Augmented Reality (AR) gait rehabilitation platform designed to assist patients recovering from neurological and musculoskeletal conditions such as Parkinson's disease, stroke, and meningitis which effect. Traditional physiotherapy can be labour-intensive and lacks continuous, quantitative feedback. GaitSyncAR modernises this process by pairing rhythmic visual, auditory, and haptic cueing in an AR environment with gait analysis derived from custom-built wearable ankle sensors. 
+**GaitSyncAR** is an immersive Augmented Reality (AR) gait rehabilitation platform designed to assist patients recovering from neurological and musculoskeletal conditions such as Parkinson's disease, stroke, and meningitis. Traditional physiotherapy can be labour-intensive and lacks continuous, quantitative feedback. GaitSyncAR modernises this process by pairing rhythmic visual, auditory, and haptic cueing in an AR environment with gait analysis derived from custom-built wearable ankle sensors. 
 
 ### Key Features
 * **Zero-Latency Wearable Sensors:** Custom nRF52840-based hardware providing sub-millisecond clock synchronisation for accurate, real-time step tracking.
