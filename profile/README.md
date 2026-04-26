@@ -1,6 +1,7 @@
 # GaitSyncAR: Augmented Reality Gait Rehabilitation Platform
 
-**Project Demonstration Video:** [Watch Screencast Here](https://youtu.be/2aWwRzrZJKY)
+**Project Demonstration Video:** [Watch Screencast Here](https://youtu.be/2aWwRzrZJKY)  <br>
+**Backup Demonstration Video:** [Watch on Google Drive](https://drive.google.com/file/d/1f5CDELG2ERLoXQtjp8sMy_9T7Tl5DJSQ/view?usp=sharing)
 
 ## About the Project
 
